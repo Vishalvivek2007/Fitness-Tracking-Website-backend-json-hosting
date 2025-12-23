@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "858c",
+      "name": "vishal",
+      "mobile": "6281358299",
+      "email": "vishal.vivek.10039@gmail.com",
+      "password": "Sriram2015#"
+    },
+    {
+      "id": "1550",
+      "name": "Pravin",
+      "mobile": "6281358299",
+      "email": "pravin@gmail.com",
+      "password": "pravin"
+    },
+    {
+      "id": "fd4d",
+      "name": "Gay punde ",
+      "mobile": "8688035187",
+      "email": "abhiram.chowdary2024@vitstudent.ac.in",
+      "password": "abhiram"
+    },
+    {
+      "id": "35f5",
+      "name": "pravin",
+      "mobile": "1234567890",
+      "email": "pravin@gmail.com",
+      "password": "Pravin@2007"
+    }
+  ],
+  "tracking": [
+    {
+      "id": "b730",
+      "userId": "858c",
+      "date": "2025-03-29",
+      "calories": 500,
+      "weight": 79
+    },
+    {
+      "id": "0b18",
+      "userId": "858c",
+      "date": "2025-03-30",
+      "calories": 650,
+      "weight": 76
+    },
+    {
+      "id": "7eb1",
+      "userId": "858c",
+      "date": "2025-03-31",
+      "calories": 500,
+      "weight": 80
+    },
+    {
+      "id": "0349",
+      "userId": "35f5",
+      "date": "2025-04-01",
+      "calories": 700,
+      "weight": 70
+    },
+    {
+      "id": "b8ef",
+      "userId": "858c",
+      "date": "2025-04-01",
+      "calories": 700,
+      "weight": 20
+    },
+    {
+      "id": "1634",
+      "userId": "858c",
+      "date": "2025-05-06",
+      "calories": 800,
+      "weight": 70
+    },
+    {
+      "id": "eb64",
+      "userId": "858c",
+      "date": "2025-10-23",
+      "calories": 800,
+      "weight": 76
+    },
+    {
+      "id": "d0b4",
+      "userId": "1550",
+      "date": "2025-11-22",
+      "calories": 230,
+      "weight": 65
+    },
+    {
+      "id": "0d83",
+      "userId": "858c",
+      "date": "2025-12-23",
+      "calories": 2300,
+      "weight": 80
+    }
+  ]
+}
