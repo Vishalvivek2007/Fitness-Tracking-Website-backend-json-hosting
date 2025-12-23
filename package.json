@@ -2,12 +2,9 @@
   "name": "server",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0 --no-static"
+    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
-  },
-  "engines": {
-    "node": "18.x"
   }
 }
